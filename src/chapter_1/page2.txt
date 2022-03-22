@@ -1,8 +1,8 @@
 
-this is page 2
+This is page 2.
 
-we are just getting started
+We are just getting started.
 
-nothing new
+Nothing new... are you sure?
 
-take you time
+Take your time!

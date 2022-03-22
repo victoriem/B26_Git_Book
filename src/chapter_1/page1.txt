@@ -1,6 +1,6 @@
-This is the start of my book
-Page 1 will help us get stated
+This is the start of my book.
+Page 1 will help us get started.
 
-Java is cool but hard
+Java is cool but hard, but I will practice more.
 
-james Bond is always with us!
+James Bond is always with us! What made Cydeo pick James Bond as a main character.
