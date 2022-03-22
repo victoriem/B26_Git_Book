@@ -1,0 +1,9 @@
+
+
+Welcome to Git.
+
+Hopefully it won't be hard as Java.
+
+
+
+I miss java
