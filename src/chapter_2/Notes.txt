@@ -4,3 +4,6 @@ this is editor note
  
  chapter 1 is good
  keep working on chapter 2
+
+more text 
+commit
